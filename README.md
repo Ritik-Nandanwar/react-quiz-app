@@ -1,4 +1,4 @@
-# A full stack quiz app built with
+# A full quiz app built with
  - React
  - Firebase 
  - Triivia API
